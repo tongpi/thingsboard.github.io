@@ -1,13 +1,4 @@
 ---
-layout:docwithnav
-assignees:
- -  ashvayka
-title:入门
-description:开始使用ThingsBoard开源IoT平台和模拟物联网设备
-
----
-
----
 layout: docwithnav
 assignees:
 - ashvayka
