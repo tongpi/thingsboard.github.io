@@ -7,8 +7,8 @@ description: 开始使用ThingsBoard开源IoT平台和模拟物联网设备.
 ---
 
 * TOC
-{:TOC}
 
+{:TOC}
 
 ## 介绍
 
