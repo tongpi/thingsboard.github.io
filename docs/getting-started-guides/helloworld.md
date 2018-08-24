@@ -23,7 +23,7 @@ description:开始使用ThingsBoard开源IoT平台和模拟物联网设备
   
 <div id ="video">
     <div id ="video_wrapper">
-        <iframe src ="https://www.youtube.com/embed/dIKXFxpfB_Q"frameborder ="0"allowfullscreen> </iframe>
+        <iframe src ="https://www.youtube.com/embed/dIKXFxpfB_Q" frameborder ="0" allowfullscreen> </iframe>
     </DIV>
 </DIV>
 
